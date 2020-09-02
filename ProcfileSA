@@ -1,0 +1,2 @@
+python: gunicorn index:application
+python: cd apps&& live_twitter_sentiment_streaming.py
